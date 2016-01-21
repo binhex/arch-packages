@@ -1,4 +1,7 @@
-Arch Linux packages
-===================
+**Application**
 
-Arch Linux tarball packages for installation via Pacman/Packer.
+N/A
+
+**Application description**
+
+Collection of Arch Linux compiled packages for use with various Docker images during build time.
