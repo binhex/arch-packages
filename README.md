@@ -3,6 +3,8 @@
 N/A
 
 **Description**
+
+A collection of Arch Linux packages to be consumed when building Docker images, these may contain patches or might simply be previous stable versions of certain applications.
 ___
 If you appreciate my work, then please consider buying me a beer  :D
 
