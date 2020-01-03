@@ -1,1 +1,1 @@
-rtorrent-ps-1.1.r42.g37c9d4b-1-any.pkg.tar.xz
+rtorrent-ps-1.1.r43.g8be91ab-1-any.pkg.tar.xz
