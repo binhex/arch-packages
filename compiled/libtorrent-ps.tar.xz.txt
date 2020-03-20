@@ -1,1 +1,1 @@
-libtorrent-ps-1.1.r42.g37c9d4b-1-any.pkg.tar.xz
+libtorrent-ps-1.1.r54.ga787dd9-1-any.pkg.tar
